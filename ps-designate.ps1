@@ -1,5 +1,6 @@
 # 上記、cloudshell上の手順
 # リソースグループの作成
+# gitに送信
 
 $rg = New-AzResourceGroup -Name “AADC” -Location “JapanEast”
 
